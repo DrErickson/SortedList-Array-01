@@ -1,1 +1,2 @@
-# SortedList-Array-template
+# SortedList Finished Implementation
+The finished implementation will be here after lecture.
